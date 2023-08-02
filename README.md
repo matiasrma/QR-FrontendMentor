@@ -18,14 +18,14 @@ This is my version of de challenge and is responsive.
 ### Screenshot
 
 Desktop
-![desktop](https://raw.githubusercontent.com/matiasrma/QR-FrontendMentor/main/.github/desktop.png)
+![Desktop](./images/desktop.png)
 
 Galaxy-Fold
-![galaxy-fold](https://raw.githubusercontent.com/matiasrma/QR-FrontendMentor/main/.github/galaxy-fold.png)
+![Galaxy-Fold](./images/galaxy-fold.png)
 
 ### Links
 
-- Live Site URL: ...
+- Live Site URL: [QR code component](https://matiasrma.github.io/QR-FrontendMentor/)
 
 ### Built with
 
